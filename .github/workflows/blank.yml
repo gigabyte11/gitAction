@@ -28,5 +28,5 @@ jobs:
       # Runs a single command using the runners shell
       - name: Dysplay Name
         run: |
-            echo "My first name is [VITALII]"
+            echo "My first name is [VITALII ]"
             echo "My last name is [KRYVOSHEI]"
